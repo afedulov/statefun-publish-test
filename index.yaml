@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  statefun-k8s:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-18T14:00:59.283419581Z"
+    description: A Helm chart for a Stateful function pplication deployed on Kubernetes
+    digest: 7fe4341b175cd1be7d59f403b246512b300d020e78b1e399d400d211e4c97579
+    name: statefun-k8s
+    type: application
+    urls:
+    - https://afedulov.github.io/statefun-publish-test/statefun-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-18T14:00:59.282905776Z"
